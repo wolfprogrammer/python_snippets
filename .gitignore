@@ -1,0 +1,11 @@
+*.pyc
+*.pyo
+*.zip
+*.pyz
+*.pyd
+*.egg
+.idea
+*.bin
+*.o
+*.dll
+*.so
